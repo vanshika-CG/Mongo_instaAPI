@@ -1,6 +1,5 @@
 # Postman instagram Documentation -
-## users : 
-'https://documenter.getpostman.com/view/39217082/2sAYQUpu6U'
+## users : 'https://documenter.getpostman.com/view/39217082/2sAYQUpu6U'
 
 ## posts : https://documenter.getpostman.com/view/39217082/2sAYQUqDy4
 
